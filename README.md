@@ -1,5 +1,9 @@
 # 📊 UPE Analytics Sandbox
 
+![ChatGPT Image Jun 14, 2025, 11_53_26 AM](https://github.com/user-attachments/assets/bc62150d-74d5-4397-9e49-79e1b5795c63)
+
+
+
 Este repositório contém **datasets simulados** com o objetivo de apoiar a criação de dashboards, visualizações e análises exploratórias de dados em projetos da Universidade de Pernambuco (UPE).
 
 Os dados foram gerados com base em dois cenários institucionais importantes:
