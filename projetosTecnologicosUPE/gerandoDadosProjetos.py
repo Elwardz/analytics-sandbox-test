@@ -59,3 +59,5 @@ for ano in anos_desejados:
 df = pd.DataFrame(dados, columns=colunas)
 
 df.to_json("dados_projetos_tecnologicos.json", orient="records", force_ascii=False, indent=4)
+
+df.to_csv("dados_projetos_tecnologicos.csv", index=False)
